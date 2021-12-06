@@ -1,0 +1,2 @@
+skills: Passion.Sociability and contact
+tools;POSTMAN,GIT
