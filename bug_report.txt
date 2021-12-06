@@ -1,0 +1,6 @@
+Summary (заголовок)
+Description (описание)
+Actual/expected result
+Attachments (вложения)
+Priority (приоритет)
+Severity (серьёзность)
